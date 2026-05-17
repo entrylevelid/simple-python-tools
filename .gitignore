@@ -1,0 +1,29 @@
+# Logs
+*.log
+
+# Compiled executables
+*.exe
+*.dll
+*.so
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Duplicate/typo files
+*.txt.txt
