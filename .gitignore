@@ -27,3 +27,5 @@ Thumbs.db
 
 # Duplicate/typo files
 *.txt.txt
+
+session.txt
